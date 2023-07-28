@@ -30,4 +30,4 @@ dist
 *.db
 vendor/
 /docker/sandbox-bundled/images/tar
-rsts/_tags/
+docs/_tags/
