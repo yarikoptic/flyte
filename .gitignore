@@ -31,3 +31,4 @@ dist
 vendor/
 /docker/sandbox-bundled/images/tar
 docs/_tags/
+docs/_repos/
