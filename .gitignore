@@ -13,7 +13,6 @@ rsts_tmp/
 docs/_sources/
 docs/flytekit/flytekit.interfaces.html
 docs/searchindex.js
-docs/
 release/
 __pycache__/
 /charts/flyte/charts
